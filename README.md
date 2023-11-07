@@ -21,7 +21,7 @@ As a compass to better navigate this field of studies we draw knowledge from two
 texts:
 
 ● Postcolonial Cinema Studies, edited by Sandra Ponzanesi, and Marguerite Waller,
-Taylor & Francis Group, 2011. ProQuest Ebook Central
+Taylor & Francis Group, 2011. ProQuest Ebook Central<br>
 
 ● East Asian Cinemas, Exploring Transnational Connections on Film, edited by Leon
 Hunt & Leung Wing-Fai, I.B Tauris & Co Ltd, New York, 2008
