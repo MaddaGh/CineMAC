@@ -22,6 +22,7 @@ texts:
 
 ● Postcolonial Cinema Studies, edited by Sandra Ponzanesi, and Marguerite Waller,
 Taylor & Francis Group, 2011. ProQuest Ebook Central
+
 ● East Asian Cinemas, Exploring Transnational Connections on Film, edited by Leon
 Hunt & Leung Wing-Fai, I.B Tauris & Co Ltd, New York, 2008
 Moreover, we are taking inspiration from Spitz and Horvàt’s Network Analysis study
